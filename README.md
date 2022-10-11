@@ -1,0 +1,2 @@
+# LordMo
+AWS related
